@@ -15,7 +15,7 @@ The hardware accelerator is connected to a central (embedded) CPU over e.g. AXI 
 
 This library uses both the UIO driver model and the GMP multi-precision library.
 
-    UIO info: https://www.kernel.org/doc/htmldocs/uio-howto.html
+    UIO info: https://www.kernel.org/doc/htmldocs/uio-howto/
     GMP project page: http://gmplib.org/ 
 
 # New
